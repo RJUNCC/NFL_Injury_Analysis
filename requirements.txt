@@ -6,3 +6,6 @@ dash
 Flask
 ipykernel
 matplotlib
+scikit-learn
+xgboost
+scipy
